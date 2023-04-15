@@ -24,4 +24,5 @@ for that are in buildProxy.js. You can probably use any proxy you'd like but som
 have anti-proxy detection so ymmv.
 
 # Support (only if you've got the funds)
+## Mutual aid fund. 100% goes towards helping my trans friends not get evicted.
 Monero: 8Ahgg4diJWZiWZS2jJSi2oBr82MkaMwzWEWfgEaS1zyJCoyYSrw94WxfiML45a44zJRki4Z5k7vZBbw8es5HN2PYHz2odub
