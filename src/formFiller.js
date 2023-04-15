@@ -64,9 +64,9 @@ const startDriver = async () => {
 
 const getConcernDetails = (city) => {
   const loremTypes = {
-    'fullString': 2.50,
-    'drAndReplace': 2.50,
-    'transPeopleGoodActually': 2.00
+    'fullString': 1.50,
+    'drAndReplace': 1.50,
+    'transPeopleGoodActually': 1.25
   };
   const loremType = utils.weightedRand(loremTypes);
   if (loremType === 'fullString') {
