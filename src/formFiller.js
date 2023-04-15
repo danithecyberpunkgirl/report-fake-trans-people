@@ -1,5 +1,6 @@
 import webdriver from 'selenium-webdriver';
 import chrome from 'selenium-webdriver/chrome.js';
+import chromeDriver from 'chromedriver';
 import faker from 'faker';
 import fs from 'fs';
 import path from 'path';
@@ -7,7 +8,7 @@ import data from './dataGen.js';
 import { zipCodesByCity } from './moAddressData.js';
 import utils from './utils.js';
 import { addProxyExtension } from './buildProxy.js';
-const { Builder, By } = webdriver;
+const { Builder, By, until } = webdriver;
 
 const dataDir = path.resolve('./src/chromeUserDir');
 const timeout = 15000;
