@@ -3,6 +3,12 @@ This is a selenium web crawler that floods anti-trans hotline forms with bogus d
 is the Missouri AG's form for reporting the trans agenda. Its very annoying and I hope they spend all the money trying to fix security 
 vulnerabilties while I patch my script to bypass whatever they try UwU
 
+## NSFW warning about included files
+The source files for the content description generation are some of the most vile transphobia on the internet. I used an AI model 
+to spit out tons and tons of vile transphobia to make the generated submissions somewhat plausible. The goal is to make any authentic
+submissions effectively useless because there will be so much bogus data. I apologize to all my fellow trans people for the crimes committed
+in this repo.
+
 # Installation and running
 You'll need your matching chromedriver. I included one for windows chrome version 112.0. A fresh binary is just a google 
 search away if chrome has updated recently.
