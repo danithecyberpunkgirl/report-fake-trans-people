@@ -22,3 +22,6 @@ much time to help debug issues but if you post a bug I'll try to get to it.
 I'm using a rotating residential proxy because the form has same IP protection. The config vars 
 for that are in buildProxy.js. You can probably use any proxy you'd like but some of the forms 
 have anti-proxy detection so ymmv.
+
+# Support (only if you've got the funds)
+Monero: 8Ahgg4diJWZiWZS2jJSi2oBr82MkaMwzWEWfgEaS1zyJCoyYSrw94WxfiML45a44zJRki4Z5k7vZBbw8es5HN2PYHz2odub
