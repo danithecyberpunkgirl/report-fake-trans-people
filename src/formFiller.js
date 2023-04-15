@@ -66,11 +66,13 @@ const getConcernDetails = (city) => {
   const loremTypes = {
     'fullString': 2.50,
     'drAndReplace': 2.50,
-    'transPeopleGoodActually': 1.00
+    'transPeopleGoodActually': 2.00
   };
   const loremType = utils.weightedRand(loremTypes);
   if (loremType === 'fullString') {
     return utils.randomEntry(data.transphobicBullshit);
+  } else if (loremType === 'transPeopleGoodActually') {
+    return utils.randomEntry(data.transPeopleGoodActually);
   } else {
     const address = faker.address.streetAddress();
     const drName = faker.name.lastName();
