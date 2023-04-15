@@ -1,0 +1,27 @@
+{
+  "name": "formFillBot",
+  "version": "0.0.1",
+  "packageManager": "yarn@3.0.0",
+  "description": "missouri can suck my trans dick",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/formFiller.js"
+  },
+  "keywords": [],
+  "author": "danithecyberpunkgirl",
+  "license": "MIT",
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ],
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "chromedriver": "^112.0.0",
+    "faker": "^5.5.3",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "selenium-webdriver": "^4.1.0"
+  }
+}

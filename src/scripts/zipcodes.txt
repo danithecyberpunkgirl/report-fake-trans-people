@@ -1,0 +1,1173 @@
+
+63001 	Allenton 	Saint Louis 	189 	
+63005 	Chesterfield 	Saint Louis 	189  
+63006 	Chesterfield 	Saint Louis 	189  
+63010 	Arnold 	Jefferson 	99 	
+63011 	Ballwin 	Saint Louis 	189 	
+63012 	Barnhart 	Jefferson 	99 	
+63013 	Beaufort 	Franklin 	71 	
+63014 	Berger 	Franklin 	71 	
+63015 	Catawissa 	Franklin 	71 	
+63016 	Cedar Hill 	Jefferson 	99 	
+63017 	Chesterfield 	Saint Louis 	189 	
+63019 	Crystal City 	Jefferson 	99 	
+63020 	De Soto 	Jefferson 	99 	
+63021 	Ballwin 	Saint Louis 	189 	
+63022 	Ballwin 	Saint Louis 	189  
+63023 	Dittmer 	Jefferson 	99 	
+63024 	Ballwin 	Saint Louis 	189  
+63025 	Eureka 	Saint Louis 	189 	
+63026 	Fenton 	Saint Louis 	189 	
+63028 	Festus 	Jefferson 	99 	
+63030 	Fletcher 	Jefferson 	99 	
+63031 	Florissant 	Saint Louis 	189 	
+63032 	Florissant 	Saint Louis 	189  
+63033 	Florissant 	Saint Louis 	189 	
+63034 	Florissant 	Saint Louis 	189 	
+63036 	French Village 	Saint Francois 	187 	
+63037 	Gerald 	Franklin 	71 	
+63038 	Glencoe 	Saint Louis 	189 	
+63039 	Gray Summit 	Franklin 	71 	
+63040 	Grover 	Saint Louis 	189 	
+63041 	Grubville 	Jefferson 	99 	
+63042 	Hazelwood 	Saint Louis 	189 	
+63043 	Maryland Heights 	Saint Louis 	189 	
+63044 	Bridgeton 	Saint Louis 	189 	
+63045 	Earth City 	Saint Louis 	189 	
+63047 	Hematite 	Jefferson 	99 	
+63048 	Herculaneum 	Jefferson 	99 	
+63049 	High Ridge 	Jefferson 	99 	
+63050 	Hillsboro 	Jefferson 	99 	
+63051 	House Springs 	Jefferson 	99 	
+63052 	Imperial 	Jefferson 	99 	
+63053 	Kimmswick 	Jefferson 	99 	
+63055 	Labadie 	Franklin 	71 	
+63056 	Leslie 	Franklin 	71 	
+63057 	Liguori 	Jefferson 	99 	
+63060 	Lonedell 	Franklin 	71 	
+63061 	Luebbering 	Franklin 	71 	
+63065 	Mapaville 	Jefferson 	99 	
+63066 	Morse Mill 	Jefferson 	99 	
+63068 	New Haven 	Franklin 	71 	
+63069 	Pacific 	Franklin 	71 	
+63070 	Pevely 	Jefferson 	99 	
+63071 	Richwoods 	Washington 	221 	
+63072 	Robertsville 	Franklin 	71 	
+63073 	Saint Albans 	Franklin 	71 	
+63074 	Saint Ann 	Saint Louis 	189 	
+63077 	Saint Clair 	Franklin 	71 	
+63079 	Stanton 	Franklin 	71 	
+63080 	Sullivan 	Franklin 	71 	
+63084 	Union 	Franklin 	71 	
+63087 	Valles Mines 	Saint Francois 	187 	
+63088 	Valley Park 	Saint Louis 	189 	
+63089 	Villa Ridge 	Franklin 	71 	
+63090 	Washington 	Franklin 	71 	
+63091 	Rosebud 	Gasconade 	73 	
+63099 	Fenton 	Saint Louis 	189 	New
+63101 	Saint Louis 	Saint Louis City 	510 	
+63102 	Saint Louis 	Saint Louis City 	510 	
+63103 	Saint Louis 	Saint Louis City 	510 	
+63104 	Saint Louis 	Saint Louis City 	510 	
+63105 	Saint Louis 	Saint Louis 	189 	
+63106 	Saint Louis 	Saint Louis City 	510 	
+63107 	Saint Louis 	Saint Louis City 	510 	
+63108 	Saint Louis 	Saint Louis City 	510 	
+63109 	Saint Louis 	Saint Louis City 	510 	
+63110 	Saint Louis 	Saint Louis City 	510 	
+63111 	Saint Louis 	Saint Louis City 	510 	
+63112 	Saint Louis 	Saint Louis City 	510 	
+63113 	Saint Louis 	Saint Louis City 	510 	
+63114 	Saint Louis 	Saint Louis 	189 	
+63115 	Saint Louis 	Saint Louis City 	510 	
+63116 	Saint Louis 	Saint Louis City 	510 	
+63117 	Saint Louis 	Saint Louis 	189 	
+63118 	Saint Louis 	Saint Louis City 	510 	
+63119 	Saint Louis 	Saint Louis 	189 	
+63120 	Saint Louis 	Saint Louis City 	510 	
+63121 	Saint Louis 	Saint Louis 	189 	
+63122 	Saint Louis 	Saint Louis 	189 	
+63123 	Saint Louis 	Saint Louis 	189 	
+63124 	Saint Louis 	Saint Louis 	189 	
+63125 	Saint Louis 	Saint Louis 	189 	
+63126 	Saint Louis 	Saint Louis 	189 	
+63127 	Saint Louis 	Saint Louis 	189 	
+63128 	Saint Louis 	Saint Louis 	189 	
+63129 	Saint Louis 	Saint Louis 	189 	
+63130 	Saint Louis 	Saint Louis 	189 	
+63131 	Saint Louis 	Saint Louis 	189 	
+63132 	Saint Louis 	Saint Louis 	189 	
+63133 	Saint Louis 	Saint Louis 	189 	
+63134 	Saint Louis 	Saint Louis 	189 	
+63135 	Saint Louis 	Saint Louis 	189 	
+63136 	Saint Louis 	Saint Louis 	189 	
+63137 	Saint Louis 	Saint Louis 	189 	
+63138 	Saint Louis 	Saint Louis 	189 	
+63139 	Saint Louis 	Saint Louis City 	510 	
+63140 	Saint Louis 	Saint Louis 	189 	
+63141 	Saint Louis 	Saint Louis 	189 	
+63143 	Saint Louis 	Saint Louis 	189 	
+63144 	Saint Louis 	Saint Louis 	189 	
+63145 	Saint Louis 	Saint Louis 	189  
+63146 	Saint Louis 	Saint Louis 	189 	
+63147 	Saint Louis 	Saint Louis City 	510 	
+63150 	Saint Louis 	Saint Louis City 	510  
+63151 	Saint Louis 	Saint Louis 	189  
+63155 	Saint Louis 	Saint Louis City 	510  
+63156 	Saint Louis 	Saint Louis City 	510  
+63157 	Saint Louis 	Saint Louis City 	510  
+63158 	Saint Louis 	Saint Louis City 	510  
+63160 	Saint Louis 	Saint Louis City 	510  
+63163 	Saint Louis 	Saint Louis City 	510  
+63164 	Saint Louis 	Saint Louis City 	510  
+63166 	Saint Louis 	Saint Louis City 	510  
+63167 	Saint Louis 	Saint Louis 	189  
+63169 	Saint Louis 	Saint Louis City 	510  
+63171 	Saint Louis 	Saint Louis City 	510  
+63177 	Saint Louis 	Saint Louis City 	510  
+63178 	Saint Louis 	Saint Louis City 	510  
+63179 	Saint Louis 	Saint Louis City 	510  
+63180 	Saint Louis 	Saint Louis City 	510  
+63182 	Saint Louis 	Saint Louis City 	510  
+63188 	Saint Louis 	Saint Louis City 	510  
+63190 	Saint Louis 	Saint Louis City 	510  
+63195 	Saint Louis 	Saint Louis City 	510  
+63196 	Saint Louis 	Saint Louis City 	510  
+63197 	Saint Louis 	Saint Louis City 	510  
+63198 	Saint Louis 	Saint Louis 	189 	New
+63199 	Saint Louis 	Saint Louis City 	510  
+63301 	Saint Charles 	Saint Charles 	183 	
+63302 	Saint Charles 	Saint Charles 	183  
+63303 	Saint Charles 	Saint Charles 	183 	
+63304 	Saint Charles 	Saint Charles 	183 	
+63330 	Annada 	Pike 	163 	
+63332 	Augusta 	Saint Charles 	183 	
+63333 	Bellflower 	Montgomery 	139 	
+63334 	Bowling Green 	Pike 	163 	
+63336 	Clarksville 	Pike 	163 	
+63338 	Cottleville 	Saint Charles 	183 	
+63339 	Curryville 	Pike 	163 	
+63341 	Defiance 	Saint Charles 	183 	
+63342 	Dutzow 	Warren 	219 	
+63343 	Elsberry 	Lincoln 	113 	
+63344 	Eolia 	Pike 	163 	
+63345 	Farber 	Audrain 	7 	
+63346 	Flinthill 	Saint Charles 	183 	
+63347 	Foley 	Lincoln 	113 	
+63348 	Foristell 	Saint Charles 	183 	
+63349 	Hawk Point 	Lincoln 	113 	
+63350 	High Hill 	Montgomery 	139 	
+63351 	Jonesburg 	Montgomery 	139 	
+63352 	Laddonia 	Audrain 	7 	
+63353 	Louisiana 	Pike 	163 	
+63357 	Marthasville 	Warren 	219 	
+63359 	Middletown 	Montgomery 	139 	
+63361 	Montgomery City 	Montgomery 	139 	
+63362 	Moscow Mills 	Lincoln 	113 	
+63363 	New Florence 	Montgomery 	139 	
+63365 	New Melle 	Saint Charles 	183 	
+63366 	O Fallon 	Saint Charles 	183 	
+63367 	Lake Saint Louis 	Saint Charles 	183 	
+63368 	O Fallon 	Saint Charles 	183 	
+63369 	Old Monroe 	Lincoln 	113 	
+63370 	Olney 	Lincoln 	113 	
+63373 	Portage Des Sioux 	Saint Charles 	183 	
+63376 	Saint Peters 	Saint Charles 	183 	
+63377 	Silex 	Lincoln 	113 	
+63378 	Treloar 	Warren 	219 	
+63379 	Troy 	Lincoln 	113 	
+63380 	Truesdale 	Warren 	219 	
+63381 	Truxton 	Lincoln 	113 	
+63382 	Vandalia 	Audrain 	7 	
+63383 	Warrenton 	Warren 	219 	
+63384 	Wellsville 	Montgomery 	139 	
+63385 	Wentzville 	Saint Charles 	183 	
+63386 	West Alton 	Saint Charles 	183 	
+63387 	Whiteside 	Lincoln 	113 	
+63388 	Williamsburg 	Callaway 	27 	
+63389 	Winfield 	Lincoln 	113 	
+63390 	Wright City 	Warren 	219 	
+63401 	Hannibal 	Marion 	127 	
+63430 	Alexandria 	Clark 	45 	
+63431 	Anabel 	Macon 	121 	
+63432 	Arbela 	Scotland 	199 	
+63433 	Ashburn 	Pike 	163 	
+63434 	Bethel 	Shelby 	205 	
+63435 	Canton 	Lewis 	111 	
+63436 	Center 	Ralls 	173 	
+63437 	Clarence 	Shelby 	205 	
+63438 	Durham 	Lewis 	111 	
+63439 	Emden 	Shelby 	205 	
+63440 	Ewing 	Lewis 	111 	
+63441 	Frankford 	Pike 	163 	
+63442 	Granger 	Scotland 	199 	
+63443 	Hunell 	Shelby 	205 	
+63445 	Kahoka 	Clark 	45 	
+63446 	Knox City 	Knox 	103 	
+63447 	La Belle 	Lewis 	111 	
+63448 	La Grange 	Lewis 	111 	
+63450 	Lentner 	Shelby 	205 	
+63451 	Leonard 	Shelby 	205 	
+63452 	Lewistown 	Lewis 	111 	
+63453 	Luray 	Clark 	45 	
+63454 	Maywood 	Marion 	127 	
+63456 	Monroe City 	Monroe 	137 	
+63457 	Monticello 	Lewis 	111 	
+63458 	Newark 	Knox 	103 	
+63459 	New London 	Ralls 	173 	
+63460 	Novelty 	Knox 	103 	
+63461 	Palmyra 	Marion 	127 	
+63462 	Perry 	Ralls 	173 	
+63463 	Philadelphia 	Marion 	127 	
+63464 	Plevna 	Knox 	103 	
+63465 	Revere 	Clark 	45 	
+63466 	Saint Patrick 	Clark 	45 	
+63467 	Saverton 	Ralls 	173 	
+63468 	Shelbina 	Shelby 	205 	
+63469 	Shelbyville 	Shelby 	205 	
+63471 	Taylor 	Marion 	127 	
+63472 	Wayland 	Clark 	45 	
+63473 	Williamstown 	Lewis 	111 	
+63474 	Wyaconda 	Clark 	45 	
+63501 	Kirksville 	Adair 	1 	
+63530 	Atlanta 	Macon 	121 	
+63531 	Baring 	Knox 	103 	
+63532 	Bevier 	Macon 	121 	
+63533 	Brashear 	Adair 	1 	
+63534 	Callao 	Macon 	121 	
+63535 	Coatsville 	Schuyler 	197 	
+63536 	Downing 	Schuyler 	197 	
+63537 	Edina 	Knox 	103 	
+63538 	Elmer 	Macon 	121 	
+63539 	Ethel 	Macon 	121 	
+63540 	Gibbs 	Adair 	1 	
+63541 	Glenwood 	Schuyler 	197 	
+63543 	Gorin 	Scotland 	199 	
+63544 	Green Castle 	Sullivan 	211 	
+63545 	Green City 	Sullivan 	211 	
+63546 	Greentop 	Adair 	1 	
+63547 	Hurdland 	Knox 	103 	
+63548 	Lancaster 	Schuyler 	197 	
+63549 	La Plata 	Macon 	121 	
+63551 	Livonia 	Putnam 	171 	
+63552 	Macon 	Macon 	121 	
+63555 	Memphis 	Scotland 	199 	
+63556 	Milan 	Sullivan 	211 	
+63557 	New Boston 	Linn 	115 	
+63558 	New Cambria 	Macon 	121 	
+63559 	Novinger 	Adair 	1 	
+63560 	Pollock 	Sullivan 	211 	
+63561 	Queen City 	Schuyler 	197 	
+63563 	Rutledge 	Scotland 	199 	
+63565 	Unionville 	Putnam 	171 	
+63566 	Winigan 	Sullivan 	211 	
+63567 	Worthington 	Putnam 	171 	
+63601 	Park Hills 	Saint Francois 	187 	
+63620 	Annapolis 	Iron 	93 	
+63621 	Arcadia 	Iron 	93 	
+63622 	Belgrade 	Washington 	221 	
+63623 	Belleview 	Iron 	93 	
+63624 	Bismarck 	Saint Francois 	187 	
+63625 	Black 	Reynolds 	179 	
+63626 	Blackwell 	Saint Francois 	187 	
+63627 	Bloomsdale 	Sainte Genevieve 	186 	
+63628 	Bonne Terre 	Saint Francois 	187 	
+63629 	Bunker 	Reynolds 	179 	
+63630 	Cadet 	Washington 	221 	
+63631 	Caledonia 	Washington 	221 	
+63632 	Cascade 	Wayne 	223 	
+63633 	Centerville 	Reynolds 	179 	
+63636 	Des Arc 	Iron 	93 	
+63637 	Doe Run 	Saint Francois 	187 	
+63638 	Ellington 	Reynolds 	179 	
+63640 	Farmington 	Saint Francois 	187 	
+63645 	Fredericktown 	Madison 	123 	
+63648 	Irondale 	Washington 	221 	
+63650 	Ironton 	Iron 	93 	
+63651 	Knob Lick 	Saint Francois 	187 	
+63653 	Leadwood 	Saint Francois 	187 	
+63654 	Lesterville 	Reynolds 	179 	
+63655 	Marquand 	Madison 	123 	
+63656 	Middle Brook 	Iron 	93 	
+63660 	Mineral Point 	Washington 	221 	
+63662 	Patton 	Bollinger 	17 	
+63663 	Pilot Knob 	Iron 	93 	
+63664 	Potosi 	Washington 	221 	
+63665 	Redford 	Reynolds 	179 	
+63666 	Reynolds 	Reynolds 	179 	
+63670 	Sainte Genevieve 	Sainte Genevieve 	186 	
+63673 	Saint Mary 	Sainte Genevieve 	186 	
+63674 	Tiff 	Washington 	221 	
+63675 	Vulcan 	Iron 	93 	
+63701 	Cape Girardeau 	Cape Girardeau 	31 	
+63702 	Cape Girardeau 	Cape Girardeau 	31   
+63703 	Cape Girardeau 	Cape Girardeau 	31 	
+63730 	Advance 	Stoddard 	207 	
+63732 	Altenburg 	Perry 	157 	
+63735 	Bell City 	Stoddard 	207 	
+63736 	Benton 	Scott 	201 	
+63737 	Brazeau 	Perry 	157 	
+63738 	Brownwood 	Stoddard 	207 	
+63739 	Burfordville 	Cape Girardeau 	31 	
+63740 	Chaffee 	Scott 	201 	
+63742 	Commerce 	Scott 	201 	
+63743 	Daisy 	Cape Girardeau 	31 	
+63744 	Delta 	Cape Girardeau 	31 	
+63745 	Dutchtown 	Cape Girardeau 	31 	
+63746 	Farrar 	Perry 	157 	
+63747 	Friedheim 	Cape Girardeau 	31 	
+63748 	Frohna 	Perry 	157 	
+63750 	Gipsy 	Bollinger 	17 	
+63751 	Glenallen 	Bollinger 	17 	
+63752 	Gordonville 	Cape Girardeau 	31 	
+63755 	Jackson 	Cape Girardeau 	31 	
+63758 	Kelso 	Scott 	201 	
+63760 	Leopold 	Bollinger 	17 	
+63763 	Mc Gee 	Wayne 	223 	
+63764 	Marble Hill 	Bollinger 	17 	
+63766 	Millersville 	Cape Girardeau 	31 	
+63767 	Morley 	Scott 	201 	
+63769 	Oak Ridge 	Cape Girardeau 	31 	
+63770 	Old Appleton 	Cape Girardeau 	31 	
+63771 	Oran 	Scott 	201 	
+63774 	Perkins 	Scott 	201 	
+63775 	Perryville 	Perry 	157 	
+63776 	Mc Bride 	Perry 	157 	
+63779 	Pocahontas 	Cape Girardeau 	31 	
+63780 	Scott City 	Scott 	201 	
+63781 	Sedgewickville 	Bollinger 	17 	
+63782 	Sturdivant 	Bollinger 	17 	
+63783 	Uniontown 	Perry 	157 	
+63784 	Vanduser 	Scott 	201 	
+63785 	Whitewater 	Cape Girardeau 	31 	
+63787 	Zalma 	Bollinger 	17 	
+63801 	Sikeston 	Scott 	201 	
+63820 	Anniston 	Mississippi 	133 	
+63821 	Arbyrd 	Dunklin 	69 	
+63822 	Bernie 	Stoddard 	207 	
+63823 	Bertrand 	Mississippi 	133 	
+63824 	Blodgett 	Scott 	201 	
+63825 	Bloomfield 	Stoddard 	207 	
+63826 	Braggadocio 	Pemiscot 	155 	
+63827 	Bragg City 	Pemiscot 	155 	
+63828 	Canalou 	New Madrid 	143 	
+63829 	Cardwell 	Dunklin 	69 	
+63830 	Caruthersville 	Pemiscot 	155 	
+63833 	Catron 	New Madrid 	143 	
+63834 	Charleston 	Mississippi 	133 	
+63837 	Clarkton 	Dunklin 	69 	
+63839 	Cooter 	Pemiscot 	155 	
+63840 	Deering 	Pemiscot 	155 	
+63841 	Dexter 	Stoddard 	207 	
+63845 	East Prairie 	Mississippi 	133 	
+63846 	Essex 	Stoddard 	207 	
+63847 	Gibson 	Dunklin 	69 	
+63848 	Gideon 	New Madrid 	143 	
+63849 	Gobler 	Pemiscot 	155 	
+63850 	Grayridge 	Stoddard 	207 	
+63851 	Hayti 	Pemiscot 	155 	
+63852 	Holcomb 	Dunklin 	69 	
+63853 	Holland 	Pemiscot 	155 	
+63855 	Hornersville 	Dunklin 	69 	
+63857 	Kennett 	Dunklin 	69 	
+63860 	Kewanee 	New Madrid 	143 	
+63862 	Lilbourn 	New Madrid 	143 	
+63863 	Malden 	Dunklin 	69 	
+63866 	Marston 	New Madrid 	143 	
+63867 	Matthews 	New Madrid 	143 	
+63868 	Morehouse 	New Madrid 	143 	
+63869 	New Madrid 	New Madrid 	143 	
+63870 	Parma 	New Madrid 	143 	
+63873 	Portageville 	New Madrid 	143 	
+63874 	Risco 	New Madrid 	143 	
+63875 	Rives 	Dunklin 	69 	
+63876 	Senath 	Dunklin 	69 	
+63877 	Steele 	Pemiscot 	155 	
+63878 	Tallapoosa 	New Madrid 	143 	
+63879 	Wardell 	Pemiscot 	155 	
+63880 	Whiteoak 	Dunklin 	69 	
+63881 	Wolf Island 	Mississippi 	133 	
+63882 	Wyatt 	Mississippi 	133 	
+63901 	Poplar Bluff 	Butler 	23 	
+63902 	Poplar Bluff 	Butler 	23   
+63931 	Briar 	Ripley 	181 	
+63932 	Broseley 	Butler 	23 	
+63933 	Campbell 	Dunklin 	69 	
+63934 	Clubb 	Wayne 	223 	
+63935 	Doniphan 	Ripley 	181 	
+63936 	Dudley 	Stoddard 	207 	
+63937 	Ellsinore 	Carter 	35 	
+63938 	Fagus 	Butler 	23 	
+63939 	Fairdealing 	Ripley 	181 	
+63940 	Fisk 	Butler 	23 	
+63941 	Fremont 	Carter 	35 	
+63942 	Gatewood 	Ripley 	181 	
+63943 	Grandin 	Carter 	35 	
+63944 	Greenville 	Wayne 	223 	
+63945 	Harviell 	Butler 	23 	
+63950 	Lodi 	Wayne 	223 	
+63951 	Lowndes 	Wayne 	223 	
+63952 	Mill Spring 	Wayne 	223 	
+63953 	Naylor 	Ripley 	181 	
+63954 	Neelyville 	Butler 	23 	
+63955 	Oxly 	Ripley 	181 	
+63956 	Patterson 	Wayne 	223 	
+63957 	Piedmont 	Wayne 	223 	
+63960 	Puxico 	Stoddard 	207 	
+63961 	Qulin 	Butler 	23 	
+63962 	Rombauer 	Butler 	23 	
+63963 	Shook 	Wayne 	223 	
+63964 	Silva 	Wayne 	223 	
+63965 	Van Buren 	Carter 	35 	
+63966 	Wappapello 	Wayne 	223 	
+63967 	Williamsville 	Wayne 	223 	
+64001 	Alma 	Lafayette 	107 	
+64002 	Lees Summit 	Jackson 	95   
+64011 	Bates City 	Lafayette 	107 	
+64012 	Belton 	Cass 	37 	
+64013 	Blue Springs 	Jackson 	95   
+64014 	Blue Springs 	Jackson 	95 	
+64015 	Blue Springs 	Jackson 	95 	
+64016 	Buckner 	Jackson 	95 	
+64017 	Camden 	Ray 	177 	
+64018 	Camden Point 	Platte 	165 	
+64019 	Centerview 	Johnson 	101 	
+64020 	Concordia 	Lafayette 	107 	
+64021 	Corder 	Lafayette 	107 	
+64022 	Dover 	Lafayette 	107 	
+64024 	Excelsior Springs 	Clay 	47 	
+64028 	Farley 	Platte 	165 	
+64029 	Grain Valley 	Jackson 	95 	
+64030 	Grandview 	Jackson 	95 	
+64034 	Greenwood 	Jackson 	95 	
+64035 	Hardin 	Ray 	177 	
+64036 	Henrietta 	Ray 	177 	
+64037 	Higginsville 	Lafayette 	107 	
+64040 	Holden 	Johnson 	101 	
+64048 	Holt 	Clay 	47 	
+64050 	Independence 	Jackson 	95 	
+64051 	Independence 	Jackson 	95   
+64052 	Independence 	Jackson 	95 	
+64053 	Independence 	Jackson 	95 	
+64054 	Independence 	Jackson 	95 	
+64055 	Independence 	Jackson 	95 	
+64056 	Independence 	Jackson 	95 	
+64057 	Independence 	Jackson 	95 	
+64058 	Independence 	Jackson 	95 	
+64060 	Kearney 	Clay 	47 	
+64061 	Kingsville 	Johnson 	101 	
+64062 	Lawson 	Ray 	177 	
+64063 	Lees Summit 	Jackson 	95 	
+64064 	Lees Summit 	Jackson 	95 	
+64065 	Lees Summit 	Jackson 	95 	
+64066 	Levasy 	Jackson 	95 	
+64067 	Lexington 	Lafayette 	107 	
+64068 	Liberty 	Clay 	47 	
+64069 	Liberty 	Clay 	47 	New
+64070 	Lone Jack 	Jackson 	95 	
+64071 	Mayview 	Lafayette 	107 	
+64072 	Missouri City 	Clay 	47 	
+64073 	Mosby 	Clay 	47 	
+64074 	Napoleon 	Lafayette 	107 	
+64075 	Oak Grove 	Jackson 	95 	
+64076 	Odessa 	Lafayette 	107 	
+64077 	Orrick 	Ray 	177 	
+64078 	Peculiar 	Cass 	37 	
+64079 	Platte City 	Platte 	165 	
+64080 	Pleasant Hill 	Cass 	37 	
+64081 	Lees Summit 	Jackson 	95 	
+64082 	Lees Summit 	Jackson 	95 	
+64083 	Raymore 	Cass 	37 	
+64084 	Rayville 	Ray 	177 	
+64085 	Richmond 	Ray 	177 	
+64086 	Lees Summit 	Jackson 	95 	
+64088 	Sibley 	Jackson 	95 	
+64089 	Smithville 	Clay 	47 	
+64090 	Strasburg 	Cass 	37 	
+64092 	Waldron 	Platte 	165 	
+64093 	Warrensburg 	Johnson 	101 	
+64096 	Waverly 	Lafayette 	107 	
+64097 	Wellington 	Lafayette 	107 	
+64098 	Weston 	Platte 	165 	
+64101 	Kansas City 	Jackson 	95 	
+64102 	Kansas City 	Jackson 	95 	
+64105 	Kansas City 	Jackson 	95 	
+64106 	Kansas City 	Jackson 	95 	
+64108 	Kansas City 	Jackson 	95 	
+64109 	Kansas City 	Jackson 	95 	
+64110 	Kansas City 	Jackson 	95 	
+64111 	Kansas City 	Jackson 	95 	
+64112 	Kansas City 	Jackson 	95 	
+64113 	Kansas City 	Jackson 	95 	
+64114 	Kansas City 	Jackson 	95 	
+64116 	Kansas City 	Clay 	47 	
+64117 	Kansas City 	Clay 	47 	
+64118 	Kansas City 	Clay 	47 	
+64119 	Kansas City 	Clay 	47 	
+64120 	Kansas City 	Jackson 	95 	
+64121 	Kansas City 	Jackson 	95   
+64123 	Kansas City 	Jackson 	95 	
+64124 	Kansas City 	Jackson 	95 	
+64125 	Kansas City 	Jackson 	95 	
+64126 	Kansas City 	Jackson 	95 	
+64127 	Kansas City 	Jackson 	95 	
+64128 	Kansas City 	Jackson 	95 	
+64129 	Kansas City 	Jackson 	95 	
+64130 	Kansas City 	Jackson 	95 	
+64131 	Kansas City 	Jackson 	95 	
+64132 	Kansas City 	Jackson 	95 	
+64133 	Kansas City 	Jackson 	95 	
+64134 	Kansas City 	Jackson 	95 	
+64136 	Kansas City 	Jackson 	95 	
+64137 	Kansas City 	Jackson 	95 	
+64138 	Kansas City 	Jackson 	95 	
+64139 	Kansas City 	Jackson 	95 	
+64141 	Kansas City 	Jackson 	95   
+64144 	Kansas City 	Clay 	47   
+64145 	Kansas City 	Jackson 	95 	
+64146 	Kansas City 	Jackson 	95 	
+64147 	Kansas City 	Jackson 	95 	
+64148 	Kansas City 	Jackson 	95   
+64149 	Kansas City 	Jackson 	95 	
+64150 	Riverside 	Platte 	165 	
+64151 	Kansas City 	Platte 	165 	
+64152 	Kansas City 	Platte 	165 	
+64153 	Kansas City 	Platte 	165 	
+64154 	Kansas City 	Platte 	165 	
+64155 	Kansas City 	Clay 	47 	
+64156 	Kansas City 	Clay 	47 	
+64157 	Kansas City 	Clay 	47 	
+64158 	Kansas City 	Clay 	47 	
+64161 	Kansas City 	Clay 	47 	
+64163 	Kansas City 	Platte 	165 	
+64164 	Kansas City 	Platte 	165 	
+64165 	Kansas City 	Clay 	47 	
+64166 	Kansas City 	Clay 	47 	
+64167 	Kansas City 	Clay 	47 	
+64168 	Kansas City 	Platte 	165  
+64170 	Kansas City 	Jackson 	95   
+64171 	Kansas City 	Jackson 	95   
+64172 	Kansas City 	Jackson 	95   
+64179 	Kansas City 	Jackson 	95   
+64180 	Kansas City 	Jackson 	95   
+64183 	Kansas City 	Jackson 	95   
+64184 	Kansas City 	Jackson 	95   
+64185 	Kansas City 	Jackson 	95   
+64187 	Kansas City 	Jackson 	95   
+64188 	Kansas City 	Jackson 	95   
+64190 	Kansas City 	Platte 	165  
+64191 	Kansas City 	Jackson 	95   
+64192 	Kansas City 	Jackson 	95 	
+64193 	Kansas City 	Jackson 	95   
+64194 	Kansas City 	Jackson 	95   
+64195 	Kansas City 	Platte 	165  
+64196 	Kansas City 	Jackson 	95   
+64197 	Kansas City 	Jackson 	95   
+64198 	Kansas City 	Jackson 	95   
+64199 	Kansas City 	Jackson 	95   
+64401 	Agency 	Buchanan 	21 	
+64402 	Albany 	Gentry 	75 	
+64420 	Allendale 	Worth 	227 	
+64421 	Amazonia 	Andrew 	3 	
+64422 	Amity 	Dekalb 	63 	
+64423 	Barnard 	Nodaway 	147 	
+64424 	Bethany 	Harrison 	81 	
+64426 	Blythedale 	Harrison 	81 	
+64427 	Bolckow 	Andrew 	3 	
+64428 	Burlington Junction 	Nodaway 	147 	
+64429 	Cameron 	Clinton 	49 	
+64430 	Clarksdale 	Dekalb 	63 	
+64431 	Clearmont 	Nodaway 	147 	
+64432 	Clyde 	Nodaway 	147 	
+64433 	Conception 	Nodaway 	147 	
+64434 	Conception Junction 	Nodaway 	147 	
+64436 	Cosby 	Andrew 	3 	
+64437 	Craig 	Holt 	87 	
+64438 	Darlington 	Gentry 	75 	
+64439 	Dearborn 	Platte 	165 	
+64440 	De Kalb 	Buchanan 	21 	
+64441 	Denver 	Worth 	227 	
+64442 	Eagleville 	Harrison 	81 	
+64443 	Easton 	Buchanan 	21 	
+64444 	Edgerton 	Platte 	165 	
+64445 	Elmo 	Nodaway 	147 	
+64446 	Fairfax 	Atchison 	5 	
+64447 	Fairport 	Dekalb 	63 	
+64448 	Faucett 	Buchanan 	21 	
+64449 	Fillmore 	Andrew 	3 	
+64451 	Forest City 	Holt 	87 	
+64453 	Gentry 	Gentry 	75 	
+64454 	Gower 	Clinton 	49 	
+64455 	Graham 	Nodaway 	147 	
+64456 	Grant City 	Worth 	227 	
+64457 	Guilford 	Nodaway 	147 	
+64458 	Hatfield 	Harrison 	81 	
+64459 	Helena 	Andrew 	3 	
+64461 	Hopkins 	Nodaway 	147 	
+64463 	King City 	Gentry 	75 	
+64465 	Lathrop 	Clinton 	49 	
+64466 	Maitland 	Holt 	87 	
+64467 	Martinsville 	Harrison 	81 	
+64468 	Maryville 	Nodaway 	147 	
+64469 	Maysville 	Dekalb 	63 	
+64470 	Mound City 	Holt 	87 	
+64471 	New Hampton 	Harrison 	81 	
+64473 	Oregon 	Holt 	87 	
+64474 	Osborn 	Dekalb 	63 	
+64475 	Parnell 	Nodaway 	147 	
+64476 	Pickering 	Nodaway 	147 	
+64477 	Plattsburg 	Clinton 	49 	
+64479 	Ravenwood 	Nodaway 	147 	
+64480 	Rea 	Andrew 	3 	
+64481 	Ridgeway 	Harrison 	81 	
+64482 	Rock Port 	Atchison 	5 	
+64483 	Rosendale 	Andrew 	3 	
+64484 	Rushville 	Buchanan 	21 	
+64485 	Savannah 	Andrew 	3 	
+64486 	Sheridan 	Worth 	227 	
+64487 	Skidmore 	Nodaway 	147 	
+64489 	Stanberry 	Gentry 	75 	
+64490 	Stewartsville 	Dekalb 	63 	
+64491 	Tarkio 	Atchison 	5 	
+64492 	Trimble 	Clinton 	49 	
+64493 	Turney 	Clinton 	49 	
+64494 	Union Star 	Dekalb 	63 	
+64496 	Watson 	Atchison 	5 	
+64497 	Weatherby 	Dekalb 	63 	
+64498 	Westboro 	Atchison 	5 	
+64499 	Worth 	Worth 	227 	
+64501 	Saint Joseph 	Buchanan 	21 	
+64502 	Saint Joseph 	Buchanan 	21   
+64503 	Saint Joseph 	Buchanan 	21 	
+64504 	Saint Joseph 	Buchanan 	21 	
+64505 	Saint Joseph 	Buchanan 	21 	
+64506 	Saint Joseph 	Buchanan 	21 	
+64507 	Saint Joseph 	Buchanan 	21 	
+64508 	Saint Joseph 	Buchanan 	21   
+64601 	Chillicothe 	Livingston 	117 	
+64620 	Altamont 	Daviess 	61 	
+64622 	Bogard 	Carroll 	33 	
+64623 	Bosworth 	Carroll 	33 	
+64624 	Braymer 	Caldwell 	25 	
+64625 	Breckenridge 	Caldwell 	25 	
+64628 	Brookfield 	Linn 	115 	
+64630 	Browning 	Linn 	115 	
+64631 	Bucklin 	Linn 	115 	
+64632 	Cainsville 	Harrison 	81 	
+64633 	Carrollton 	Carroll 	33 	
+64635 	Chula 	Livingston 	117 	
+64636 	Coffey 	Daviess 	61 	
+64637 	Cowgill 	Caldwell 	25 	
+64638 	Dawn 	Livingston 	117 	
+64639 	De Witt 	Carroll 	33 	
+64640 	Gallatin 	Daviess 	61 	
+64641 	Galt 	Grundy 	79 	
+64642 	Gilman City 	Daviess 	61 	
+64643 	Hale 	Carroll 	33 	
+64644 	Hamilton 	Caldwell 	25 	
+64645 	Harris 	Sullivan 	211 	
+64646 	Humphreys 	Sullivan 	211 	
+64647 	Jameson 	Daviess 	61 	
+64648 	Jamesport 	Daviess 	61 	
+64649 	Kidder 	Caldwell 	25 	
+64650 	Kingston 	Caldwell 	25 	
+64651 	Laclede 	Linn 	115 	
+64652 	Laredo 	Grundy 	79 	
+64653 	Linneus 	Linn 	115 	
+64654 	Lock Springs 	Daviess 	61 	
+64655 	Lucerne 	Putnam 	171 	
+64656 	Ludlow 	Livingston 	117 	
+64657 	Mc Fall 	Gentry 	75 	
+64658 	Marceline 	Linn 	115 	
+64659 	Meadville 	Linn 	115 	
+64660 	Mendon 	Chariton 	41 	
+64661 	Mercer 	Mercer 	129 	
+64664 	Mooresville 	Livingston 	117 	
+64667 	Newtown 	Sullivan 	211 	
+64668 	Norborne 	Carroll 	33 	
+64670 	Pattonsburg 	Daviess 	61 	
+64671 	Polo 	Caldwell 	25 	
+64672 	Powersville 	Putnam 	171 	
+64673 	Princeton 	Mercer 	129 	
+64674 	Purdin 	Linn 	115 	
+64676 	Rothville 	Chariton 	41 	
+64679 	Spickard 	Grundy 	79 	
+64680 	Stet 	Carroll 	33 	
+64681 	Sumner 	Chariton 	41 	
+64682 	Tina 	Carroll 	33 	
+64683 	Trenton 	Grundy 	79 	
+64686 	Utica 	Livingston 	117 	
+64688 	Wheeling 	Livingston 	117 	
+64689 	Winston 	Daviess 	61 	
+64701 	Harrisonville 	Cass 	37 	
+64720 	Adrian 	Bates 	13 	
+64722 	Amoret 	Bates 	13 	
+64723 	Amsterdam 	Bates 	13 	
+64724 	Appleton City 	Saint Clair 	185 	
+64725 	Archie 	Cass 	37 	
+64726 	Blairstown 	Henry 	83 	
+64728 	Bronaugh 	Vernon 	217 	
+64730 	Butler 	Bates 	13 	
+64733 	Chilhowee 	Johnson 	101 	
+64734 	Cleveland 	Cass 	37 	
+64735 	Clinton 	Henry 	83 	
+64738 	Collins 	Saint Clair 	185 	
+64739 	Creighton 	Cass 	37 	
+64740 	Deepwater 	Henry 	83 	
+64741 	Deerfield 	Vernon 	217 	
+64742 	Drexel 	Bates 	13 	
+64743 	East Lynne 	Cass 	37 	
+64744 	El Dorado Springs 	Cedar 	39 	
+64745 	Foster 	Bates 	13 	
+64746 	Freeman 	Cass 	37 	
+64747 	Garden City 	Cass 	37 	
+64748 	Golden City 	Barton 	11 	
+64750 	Harwood 	Vernon 	217 	
+64752 	Hume 	Bates 	13 	
+64755 	Jasper 	Jasper 	97 	
+64756 	Jerico Springs 	Cedar 	39 	
+64759 	Lamar 	Barton 	11 	
+64761 	Leeton 	Johnson 	101 	
+64762 	Liberal 	Barton 	11 	
+64763 	Lowry City 	Saint Clair 	185 	
+64765 	Metz 	Vernon 	217 	
+64766 	Milford 	Barton 	11 	
+64767 	Milo 	Vernon 	217 	
+64769 	Mindenmines 	Barton 	11 	
+64770 	Montrose 	Henry 	83 	
+64771 	Moundville 	Vernon 	217 	
+64772 	Nevada 	Vernon 	217 	
+64776 	Osceola 	Saint Clair 	185 	
+64778 	Richards 	Vernon 	217 	
+64779 	Rich Hill 	Bates 	13 	
+64780 	Rockville 	Bates 	13 	
+64781 	Roscoe 	Saint Clair 	185 	
+64783 	Schell City 	Vernon 	217 	
+64784 	Sheldon 	Vernon 	217 	
+64788 	Urich 	Henry 	83 	
+64789 	Vista 	Saint Clair 	185 	
+64790 	Walker 	Vernon 	217 	
+64801 	Joplin 	Jasper 	97 	
+64802 	Joplin 	Jasper 	97   
+64803 	Joplin 	Jasper 	97   
+64804 	Joplin 	Jasper 	97 	
+64830 	Alba 	Jasper 	97 	
+64831 	Anderson 	Mcdonald 	119 	
+64832 	Asbury 	Jasper 	97 	
+64833 	Avilla 	Jasper 	97 	
+64834 	Carl Junction 	Jasper 	97 	
+64835 	Carterville 	Jasper 	97 	
+64836 	Carthage 	Jasper 	97 	
+64840 	Diamond 	Newton 	145 	
+64841 	Duenweg 	Jasper 	97 	
+64842 	Fairview 	Newton 	145 	
+64843 	Goodman 	Mcdonald 	119 	
+64844 	Granby 	Newton 	145 	
+64847 	Lanagan 	Mcdonald 	119 	
+64848 	La Russell 	Jasper 	97 	
+64849 	Neck City 	Jasper 	97 	
+64850 	Neosho 	Newton 	145 	
+64853 	Newtonia 	Newton 	145 	
+64854 	Noel 	Mcdonald 	119 	
+64855 	Oronogo 	Jasper 	97 	
+64856 	Pineville 	Mcdonald 	119 	
+64857 	Purcell 	Jasper 	97 	
+64858 	Racine 	Newton 	145 	
+64859 	Reeds 	Jasper 	97 	
+64861 	Rocky Comfort 	Mcdonald 	119 	
+64862 	Sarcoxie 	Jasper 	97 	
+64863 	South West City 	Mcdonald 	119 	
+64864 	Saginaw 	Newton 	145 	
+64865 	Seneca 	Newton 	145 	
+64866 	Stark City 	Newton 	145 	
+64867 	Stella 	Newton 	145 	
+64868 	Tiff City 	Mcdonald 	119 	
+64869 	Waco 	Jasper 	97 	
+64870 	Webb City 	Jasper 	97 	
+64873 	Wentworth 	Newton 	145 	
+64874 	Wheaton 	Barry 	9 	
+64944 	Kansas City 	Jackson 	95   
+64999 	Kansas City 	Jackson 	95   
+65001 	Argyle 	Osage 	151 	
+65010 	Ashland 	Boone 	19 	
+65011 	Barnett 	Morgan 	141 	
+65013 	Belle 	Maries 	125 	
+65014 	Bland 	Gasconade 	73 	
+65016 	Bonnots Mill 	Osage 	151 	
+65017 	Brumley 	Miller 	131 	
+65018 	California 	Moniteau 	135 	
+65020 	Camdenton 	Camden 	29 	
+65023 	Centertown 	Cole 	51 	
+65024 	Chamois 	Osage 	151 	
+65025 	Clarksburg 	Moniteau 	135 	
+65026 	Eldon 	Miller 	131 	
+65032 	Eugene 	Cole 	51 	
+65034 	Fortuna 	Moniteau 	135 	
+65035 	Freeburg 	Osage 	151 	
+65036 	Gasconade 	Gasconade 	73 	
+65037 	Gravois Mills 	Morgan 	141 	
+65038 	Laurie 	Morgan 	141 	
+65039 	Hartsburg 	Boone 	19 	
+65040 	Henley 	Cole 	51 	
+65041 	Hermann 	Gasconade 	73 	
+65042 	High Point 	Moniteau 	135 	
+65043 	Holts Summit 	Callaway 	27 	
+65046 	Jamestown 	Moniteau 	135 	
+65047 	Kaiser 	Miller 	131 	
+65048 	Koeltztown 	Osage 	151 	
+65049 	Lake Ozark 	Camden 	29 	
+65050 	Latham 	Moniteau 	135 	
+65051 	Linn 	Osage 	151 	
+65052 	Linn Creek 	Camden 	29 	
+65053 	Lohman 	Cole 	51 	
+65054 	Loose Creek 	Osage 	151 	
+65055 	Mc Girk 	Moniteau 	135 	
+65058 	Meta 	Osage 	151 	
+65059 	Mokane 	Callaway 	27 	
+65061 	Morrison 	Gasconade 	73 	
+65062 	Mount Sterling 	Gasconade 	73 	
+65063 	New Bloomfield 	Callaway 	27 	
+65064 	Olean 	Miller 	131 	
+65065 	Osage Beach 	Camden 	29 	
+65066 	Owensville 	Gasconade 	73 	
+65067 	Portland 	Callaway 	27 	
+65068 	Prairie Home 	Cooper 	53 	
+65069 	Rhineland 	Montgomery 	139 	
+65072 	Rocky Mount 	Morgan 	141 	
+65074 	Russellville 	Cole 	51 	
+65075 	Saint Elizabeth 	Miller 	131 	
+65076 	Saint Thomas 	Cole 	51 	
+65077 	Steedman 	Callaway 	27 	
+65078 	Stover 	Morgan 	141 	
+65079 	Sunrise Beach 	Camden 	29 	
+65080 	Tebbetts 	Callaway 	27 	
+65081 	Tipton 	Moniteau 	135 	
+65082 	Tuscumbia 	Miller 	131 	
+65083 	Ulman 	Miller 	131 	
+65084 	Versailles 	Morgan 	141 	
+65085 	Westphalia 	Osage 	151 	
+65101 	Jefferson City 	Cole 	51 	
+65102 	Jefferson City 	Cole 	51   
+65103 	Jefferson City 	Cole 	51   
+65104 	Jefferson City 	Cole 	51   
+65105 	Jefferson City 	Cole 	51   
+65106 	Jefferson City 	Cole 	51   
+65107 	Jefferson City 	Cole 	51   
+65108 	Jefferson City 	Cole 	51   
+65109 	Jefferson City 	Cole 	51 	
+65110 	Jefferson City 	Cole 	51   
+65111 	Jefferson City 	Cole 	51   
+65201 	Columbia 	Boone 	19 	
+65202 	Columbia 	Boone 	19 	
+65203 	Columbia 	Boone 	19 	
+65205 	Columbia 	Boone 	19   
+65211 	Columbia 	Boone 	19   
+65212 	Columbia 	Boone 	19   
+65215 	Columbia 	Boone 	19   
+65216 	Columbia 	Boone 	19   
+65217 	Columbia 	Boone 	19   
+65218 	Columbia 	Boone 	19   
+65230 	Armstrong 	Howard 	89 	
+65231 	Auxvasse 	Callaway 	27 	
+65232 	Benton City 	Audrain 	7 	
+65233 	Boonville 	Cooper 	53 	
+65236 	Brunswick 	Chariton 	41 	
+65237 	Bunceton 	Cooper 	53 	
+65239 	Cairo 	Randolph 	175 	
+65240 	Centralia 	Boone 	19 	
+65243 	Clark 	Randolph 	175 	
+65244 	Clifton Hill 	Randolph 	175 	
+65246 	Dalton 	Chariton 	41 	
+65247 	Excello 	Macon 	121 	
+65248 	Fayette 	Howard 	89 	
+65250 	Franklin 	Howard 	89 	
+65251 	Fulton 	Callaway 	27 	
+65254 	Glasgow 	Howard 	89 	
+65255 	Hallsville 	Boone 	19 	
+65256 	Harrisburg 	Boone 	19 	
+65257 	Higbee 	Randolph 	175 	
+65258 	Holliday 	Monroe 	137 	
+65259 	Huntsville 	Randolph 	175 	
+65260 	Jacksonville 	Randolph 	175 	
+65261 	Keytesville 	Chariton 	41 	
+65262 	Kingdom City 	Callaway 	27 	
+65263 	Madison 	Monroe 	137 	
+65264 	Martinsburg 	Audrain 	7 	
+65265 	Mexico 	Audrain 	7 	
+65270 	Moberly 	Randolph 	175 	
+65274 	New Franklin 	Howard 	89 	
+65275 	Paris 	Monroe 	137 	
+65276 	Pilot Grove 	Cooper 	53 	
+65278 	Renick 	Randolph 	175 	
+65279 	Rocheport 	Boone 	19 	
+65280 	Rush Hill 	Audrain 	7 	
+65281 	Salisbury 	Chariton 	41 	
+65282 	Santa Fe 	Monroe 	137 	
+65283 	Stoutsville 	Monroe 	137 	
+65284 	Sturgeon 	Boone 	19 	
+65285 	Thompson 	Audrain 	7 	
+65286 	Triplett 	Chariton 	41 	
+65287 	Wooldridge 	Cooper 	53 	
+65299 	Columbia 	Boone 	19   
+65301 	Sedalia 	Pettis 	159 	
+65302 	Sedalia 	Pettis 	159  
+65305 	Whiteman Air Force Bas 	Johnson 	101 	
+65320 	Arrow Rock 	Saline 	195 	
+65321 	Blackburn 	Saline 	195 	
+65322 	Blackwater 	Cooper 	53 	
+65323 	Calhoun 	Henry 	83 	
+65324 	Climax Springs 	Camden 	29 	
+65325 	Cole Camp 	Benton 	15 	
+65326 	Edwards 	Benton 	15 	
+65327 	Emma 	Lafayette 	107 	
+65329 	Florence 	Morgan 	141 	
+65330 	Gilliam 	Saline 	195 	
+65332 	Green Ridge 	Pettis 	159 	
+65333 	Houstonia 	Pettis 	159 	
+65334 	Hughesville 	Pettis 	159 	
+65335 	Ionia 	Benton 	15 	
+65336 	Knob Noster 	Johnson 	101 	
+65337 	La Monte 	Pettis 	159 	
+65338 	Lincoln 	Benton 	15 	
+65339 	Malta Bend 	Saline 	195 	
+65340 	Marshall 	Saline 	195 	
+65344 	Miami 	Saline 	195 	
+65345 	Mora 	Pettis 	159 	
+65347 	Nelson 	Saline 	195 	
+65348 	Otterville 	Cooper 	53 	
+65349 	Slater 	Saline 	195 	
+65350 	Smithton 	Pettis 	159 	
+65351 	Sweet Springs 	Saline 	195 	
+65354 	Syracuse 	Morgan 	141 	
+65355 	Warsaw 	Benton 	15 	
+65360 	Windsor 	Henry 	83 	
+65401 	Rolla 	Phelps 	161 	
+65402 	Rolla 	Phelps 	161  
+65409 	Rolla 	Phelps 	161  
+65436 	Beulah 	Phelps 	161 	
+65438 	Birch Tree 	Shannon 	203 	
+65439 	Bixby 	Iron 	93 	
+65440 	Boss 	Dent 	65 	
+65441 	Bourbon 	Crawford 	55 	
+65443 	Brinktown 	Maries 	125 	
+65444 	Bucyrus 	Texas 	215 	
+65446 	Cherryville 	Crawford 	55 	
+65449 	Cook 	Crawford 	55 	
+65452 	Crocker 	Pulaski 	169 	
+65453 	Cuba 	Crawford 	55 	
+65456 	Davisville 	Crawford 	55 	
+65457 	Devils Elbow 	Pulaski 	169 	
+65459 	Dixon 	Pulaski 	169 	
+65461 	Duke 	Phelps 	161 	
+65462 	Edgar Springs 	Phelps 	161 	
+65463 	Eldridge 	Laclede 	105 	
+65464 	Elk Creek 	Texas 	215 	
+65466 	Eminence 	Shannon 	203 	
+65468 	Eunice 	Texas 	215 	
+65470 	Falcon 	Laclede 	105 	
+65473 	Fort Leonard Wood 	Pulaski 	169 	
+65479 	Hartshorn 	Texas 	215 	
+65483 	Houston 	Texas 	215 	
+65484 	Huggins 	Texas 	215 	
+65486 	Iberia 	Miller 	131 	
+65501 	Jadwin 	Dent 	65 	
+65529 	Jerome 	Phelps 	161 	
+65532 	Lake Spring 	Dent 	65 	
+65534 	Laquey 	Pulaski 	169 	
+65535 	Leasburg 	Crawford 	55 	
+65536 	Lebanon 	Laclede 	105 	
+65541 	Lenox 	Dent 	65 	
+65542 	Licking 	Texas 	215 	
+65543 	Lynchburg 	Laclede 	105 	
+65546 	Montier 	Shannon 	203 	
+65548 	Mountain View 	Howell 	91 	
+65550 	Newburg 	Phelps 	161 	
+65552 	Plato 	Texas 	215 	
+65555 	Raymondville 	Texas 	215 	
+65556 	Richland 	Pulaski 	169 	
+65557 	Roby 	Texas 	215 	
+65559 	Saint James 	Phelps 	161 	
+65560 	Salem 	Dent 	65 	
+65564 	Solo 	Texas 	215 	
+65565 	Steelville 	Crawford 	55 	
+65566 	Viburnum 	Iron 	93 	
+65567 	Stoutland 	Camden 	29 	
+65570 	Success 	Texas 	215 	
+65571 	Summersville 	Texas 	215 	
+65580 	Vichy 	Maries 	125 	
+65582 	Vienna 	Maries 	125 	
+65583 	Waynesville 	Pulaski 	169 	
+65584 	Saint Robert 	Pulaski 	169 	
+65586 	Wesco 	Crawford 	55 	
+65588 	Winona 	Shannon 	203 	
+65589 	Yukon 	Texas 	215 	
+65590 	Long Lane 	Dallas 	59 	
+65591 	Montreal 	Camden 	29 	
+65601 	Aldrich 	Polk 	167 	
+65603 	Arcola 	Dade 	57 	
+65604 	Ash Grove 	Greene 	77 	
+65605 	Aurora 	Lawrence 	109 	
+65606 	Alton 	Oregon 	149 	
+65607 	Caplinger Mills 	Cedar 	39 	
+65608 	Ava 	Douglas 	67 	
+65609 	Bakersfield 	Ozark 	153 	
+65610 	Billings 	Christian 	43 	
+65611 	Blue Eye 	Stone 	209 	
+65612 	Bois D Arc 	Greene 	77 	
+65613 	Bolivar 	Polk 	167 	
+65614 	Bradleyville 	Taney 	213 	
+65615 	Branson 	Taney 	213  
+65616 	Branson 	Taney 	213 	
+65617 	Brighton 	Polk 	167 	
+65618 	Brixey 	Ozark 	153 	
+65619 	Brookline 	Greene 	77 	
+65620 	Bruner 	Christian 	43 	
+65622 	Buffalo 	Dallas 	59 	
+65623 	Butterfield 	Barry 	9 	
+65624 	Cape Fair 	Stone 	209 	
+65625 	Cassville 	Barry 	9 	
+65626 	Caulfield 	Howell 	91 	
+65627 	Cedarcreek 	Taney 	213 	
+65629 	Chadwick 	Christian 	43 	
+65630 	Chestnutridge 	Christian 	43 	
+65631 	Clever 	Christian 	43 	
+65632 	Conway 	Laclede 	105 	
+65633 	Crane 	Stone 	209 	
+65634 	Cross Timbers 	Hickory 	85 	
+65635 	Dadeville 	Dade 	57 	
+65636 	Diggins 	Webster 	225 	
+65637 	Dora 	Ozark 	153 	
+65638 	Drury 	Douglas 	67 	
+65640 	Dunnegan 	Polk 	167 	
+65641 	Eagle Rock 	Barry 	9 	
+65644 	Elkland 	Webster 	225 	
+65645 	Eudora 	Polk 	167 	
+65646 	Everton 	Dade 	57 	
+65647 	Exeter 	Barry 	9 	
+65648 	Fair Grove 	Greene 	77 	
+65649 	Fair Play 	Polk 	167 	
+65650 	Flemington 	Polk 	167 	
+65652 	Fordland 	Webster 	225 	
+65653 	Forsyth 	Taney 	213 	
+65654 	Freistatt 	Lawrence 	109 	
+65655 	Gainesville 	Ozark 	153 	
+65656 	Galena 	Stone 	209 	
+65657 	Garrison 	Christian 	43 	
+65658 	Golden 	Barry 	9 	
+65660 	Graff 	Wright 	229 	
+65661 	Greenfield 	Dade 	57 	
+65662 	Grovespring 	Wright 	229 	
+65663 	Half Way 	Polk 	167 	
+65664 	Halltown 	Lawrence 	109 	
+65666 	Hardenville 	Ozark 	153 	
+65667 	Hartville 	Wright 	229 	
+65668 	Hermitage 	Hickory 	85 	
+65669 	Highlandville 	Christian 	43 	
+65672 	Hollister 	Taney 	213 	
+65673 	Hollister 	Taney 	213  
+65674 	Humansville 	Polk 	167 	
+65675 	Hurley 	Stone 	209 	
+65676 	Isabella 	Ozark 	153 	
+65679 	Kirbyville 	Taney 	213 	
+65680 	Kissee Mills 	Taney 	213 	
+65681 	Lampe 	Stone 	209 	
+65682 	Lockwood 	Dade 	57 	
+65685 	Louisburg 	Dallas 	59 	
+65686 	Kimberling City 	Stone 	209 	
+65688 	Brandsville 	Howell 	91 	
+65689 	Cabool 	Texas 	215 	
+65690 	Couch 	Oregon 	149 	
+65692 	Koshkonong 	Oregon 	149 	
+65701 	Mc Clurg 	Taney 	213 	
+65702 	Macomb 	Wright 	229 	
+65704 	Mansfield 	Wright 	229 	
+65705 	Marionville 	Lawrence 	109 	
+65706 	Marshfield 	Webster 	225 	
+65707 	Miller 	Lawrence 	109 	
+65708 	Monett 	Barry 	9 	
+65710 	Morrisville 	Polk 	167 	
+65711 	Mountain Grove 	Wright 	229 	
+65712 	Mount Vernon 	Lawrence 	109 	
+65713 	Niangua 	Webster 	225 	
+65714 	Nixa 	Christian 	43 	
+65715 	Noble 	Ozark 	153 	
+65717 	Norwood 	Wright 	229 	
+65720 	Oldfield 	Christian 	43 	
+65721 	Ozark 	Christian 	43 	
+65722 	Phillipsburg 	Laclede 	105 	
+65723 	Pierce City 	Lawrence 	109 	
+65724 	Pittsburg 	Hickory 	85 	
+65725 	Pleasant Hope 	Polk 	167 	
+65726 	Point Lookout 	Taney 	213 	
+65727 	Polk 	Polk 	167 	
+65728 	Ponce De Leon 	Stone 	209 	
+65729 	Pontiac 	Ozark 	153 	
+65730 	Powell 	Mcdonald 	119 	
+65731 	Powersite 	Taney 	213 	
+65732 	Preston 	Hickory 	85 	
+65733 	Protem 	Taney 	213 	
+65734 	Purdy 	Barry 	9 	
+65735 	Quincy 	Hickory 	85 	
+65737 	Reeds Spring 	Stone 	209 	
+65738 	Republic 	Greene 	77 	
+65739 	Ridgedale 	Taney 	213 	
+65740 	Rockaway Beach 	Taney 	213 	
+65741 	Rockbridge 	Ozark 	153 	
+65742 	Rogersville 	Webster 	225 	
+65744 	Rueter 	Taney 	213 	
+65745 	Seligman 	Barry 	9 	
+65746 	Seymour 	Webster 	225 	
+65747 	Shell Knob 	Barry 	9 	
+65752 	South Greenfield 	Dade 	57 	
+65753 	Sparta 	Christian 	43 	
+65754 	Spokane 	Christian 	43 	
+65755 	Squires 	Douglas 	67 	
+65756 	Stotts City 	Lawrence 	109 	
+65757 	Strafford 	Greene 	77 	
+65759 	Taneyville 	Taney 	213 	
+65760 	Tecumseh 	Ozark 	153 	
+65761 	Theodosia 	Ozark 	153 	
+65762 	Thornfield 	Ozark 	153 	
+65764 	Tunas 	Dallas 	59 	
+65765 	Turners 	Greene 	77 	
+65766 	Udall 	Ozark 	153 	
+65767 	Urbana 	Dallas 	59 	
+65768 	Vanzant 	Douglas 	67 	
+65769 	Verona 	Lawrence 	109 	
+65770 	Walnut Grove 	Greene 	77 	
+65771 	Walnut Shade 	Taney 	213 	
+65772 	Washburn 	Barry 	9 	
+65773 	Wasola 	Ozark 	153 	
+65774 	Weaubleau 	Hickory 	85 	
+65775 	West Plains 	Howell 	91 	
+65776 	South Fork 	Howell 	91 	
+65777 	Moody 	Howell 	91 	
+65778 	Myrtle 	Oregon 	149 	
+65779 	Wheatland 	Hickory 	85 	
+65781 	Willard 	Greene 	77 	
+65783 	Windyville 	Dallas 	59 	
+65784 	Zanoni 	Ozark 	153 	
+65785 	Stockton 	Cedar 	39 	
+65786 	Macks Creek 	Camden 	29 	
+65787 	Roach 	Camden 	29 	
+65788 	Peace Valley 	Howell 	91 	
+65789 	Pomona 	Howell 	91 	
+65790 	Pottersville 	Howell 	91 	
+65791 	Thayer 	Oregon 	149 	
+65793 	Willow Springs 	Howell 	91 	
+65801 	Springfield 	Greene 	77   
+65802 	Springfield 	Greene 	77 	
+65803 	Springfield 	Greene 	77 	
+65804 	Springfield 	Greene 	77 	
+65805 	Springfield 	Greene 	77   
+65806 	Springfield 	Greene 	77 	
+65807 	Springfield 	Greene 	77 	
+65808 	Springfield 	Greene 	77   
+65809 	Springfield 	Greene 	77 	
+65810 	Springfield 	Greene 	77 	
+65814 	Springfield 	Greene 	77   
+65817 	Springfield 	Greene 	77   
+65890 	Springfield 	Greene 	77   
+65897 	Springfield 	Greene 	77   
+65898 	Springfield 	Greene 	77   
+65899 	Springfield 	Greene 	77   
