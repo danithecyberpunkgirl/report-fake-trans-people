@@ -11,7 +11,7 @@ import { addProxyExtension } from './buildProxy.js';
 const { Builder, By, until } = webdriver;
 
 const dataDir = path.resolve('./src/chromeUserDir');
-const timeout = 15000;
+const timeout = 1000;
 let driver;
 let userData = {};
 
