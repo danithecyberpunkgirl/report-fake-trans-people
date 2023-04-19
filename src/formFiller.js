@@ -5,7 +5,15 @@ import faker from 'faker';
 import fs from 'fs';
 import path from 'path';
 import data from './dataGen.js';
-import { zipCodesByCity } from './moAddressData.js';
+import { 
+  transphobicBullshit,
+  drTemplates,
+  sillyTransphobia,
+  drDescriptions,
+  transPeopleGoodActually,
+  justDirectlySayGoFuckYourself
+} from './data/fillerText.js';
+import { zipCodesByCity } from './data/moAddresses.js';
 import utils from './utils.js';
 import { addProxyExtension } from './buildProxy.js';
 const { Builder, By, until } = webdriver;
@@ -30,7 +38,6 @@ const initDriver = async () => {
     '--window-size=1920,1080',
     '--no-first-run',
     '--no-default-browser-check',
-    '--disable-dev-shm-usage',
     '--disable-gpu',
     '--enable-webgl',
     '--ignore-certificate-errors',
@@ -64,20 +71,26 @@ const startDriver = async () => {
 
 const getConcernDetails = (city) => {
   const loremTypes = {
-    'fullString': 1.50,
-    'drAndReplace': 1.50,
-    'transPeopleGoodActually': 1.25
+    'fullStringTransphobia': 1.0,
+    'sillyTransphobia': 3.0,
+    'drAndReplace': 0.50,
+    'transPeopleGoodActually': 1.25,
+    'justDirectlySayGoFuckYourself': 0.25,
   };
   const loremType = utils.weightedRand(loremTypes);
-  if (loremType === 'fullString') {
-    return utils.randomEntry(data.transphobicBullshit);
+  if (loremType === 'fullStringTransphobia') {
+    return utils.randomEntry(transphobicBullshit);
+  } else if (loremType === 'sillyTransphobia') {
+    return utils.randomEntry(sillyTransphobia);
   } else if (loremType === 'transPeopleGoodActually') {
-    return utils.randomEntry(data.transPeopleGoodActually);
+    return utils.randomEntry(transPeopleGoodActually);
+  } else if (loremType === 'justDirectlySayGoFuckYourself') {
+    return utils.randomEntry(justDirectlySayGoFuckYourself)
   } else {
     const address = faker.address.streetAddress();
     const drName = faker.name.lastName();
-    const unhingedRant = utils.randomEntry(data.drDescriptions);
-    let result = utils.randomEntry(data.drTemplates);
+    const unhingedRant = utils.randomEntry(drDescriptions);
+    let result = utils.randomEntry(drTemplates);
     result = result.replace('{{city}}', city);
     result = result.replace('{{name}}', drName);
     result = result.replace('{{address}}', address);
@@ -153,9 +166,10 @@ while (iters < 10000) {
         await fillOutAndSubmitForm();
         await driver.sleep(250);
 
-        await driver.findElement(By.xpath('//*[@id="MainContent_TF34D6EB7001_Col00"]')).then(el => {
+        await driver.findElement(By.xpath('//*[@id="MainContent_TF34D6EB7001_Col00"]')).then(async el => {
           console.dir('count ' + iters);
           iters++;
+          // await driver.sleep(450000);
         });
 
       } catch (e) {
