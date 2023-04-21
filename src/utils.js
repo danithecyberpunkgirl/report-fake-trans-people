@@ -75,10 +75,23 @@ const randomEmail = (_name) => {
   return mailGenFunctions[randomInt(0, mailGenFunctions.length-1)](name.split(' ')[0], name.split(' ')[1]) + '@' + weightedRand(mailProviders);
 }
 
+const waitFor = async (_driver, _selector, _maxTimeout) => {
+  let value = '';
+  let i=0;
+  const timeout = _maxTimeout / 100;
+  while ((typeof value === 'string' && value.length < 1) && i < 100) {
+    value = await _selector();
+    i++;
+    await _driver.sleep(timeout);
+  }
+  return value;
+}
+
 export default {
   randomRange,
   randomInt,
   randomEntry,
   weightedRand,
-  randomEmail
+  randomEmail,
+  waitFor
 }

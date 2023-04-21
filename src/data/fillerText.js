@@ -58,8 +58,6 @@ export const transPeopleGoodActually = [
 
 export const justDirectlySayGoFuckYourself = [
     "Fuck off facists",
-    "Your form doesn't have any real submissions. Also go fuck yourself",
-    "This form is an exemplary waste of taxpayer money, and now you get to waste more taxpayer dollars paying some pour soul minimum wage to fix the security vulnerabilities (There are a lot, I've checked). You also want to control trans bodies. Party of small government my ass. Fucking facists",
     "Andrew Bailey loves sucking transgirl cock like the good little sissy he is"
 ];
 

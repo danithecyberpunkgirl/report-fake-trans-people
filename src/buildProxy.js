@@ -3,10 +3,15 @@ import fs from 'fs';
 import JSZip from 'jszip';
 import utils from './utils.js';
 
-const PROXY_HOST = 'proxy ip';
-const PROXY_PORT_RANGE = [8080, 8081];
-const PROXY_USER = 'user';
-const PROXY_PASS = 'pass';
+const PROXY_HOST = 'premium-residential.geonode.com';
+const PROXY_PORT_RANGE = [9000, 9100];
+const PROXY_USER = 'geonode_eZSs6cZdKE';
+const PROXY_PASS = '2df594b5-9bcf-4bf0-8e3a-f5278031edea';
+
+// const PROXY_HOST = 'proxy ip';
+// const PROXY_PORT_RANGE = [8080, 8081];
+// const PROXY_USER = 'user';
+// const PROXY_PASS = 'pass';
 
 const manifest_json = "" +
 "{" +
